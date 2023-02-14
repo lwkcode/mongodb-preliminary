@@ -1,0 +1,27 @@
+systemLog:
+  #MongoDB发送所有日志输出的目标指定为文件
+  destination: file
+  #mongod或mongos应向其发送所有诊断日志记录信息的日志文件的路径
+  path: "/mongodb/sharded_cluster/myshardrs02_27318/log/mongod.log"
+  #当mongos或mongod实例重新启动时，mongos或mongod会将新条目附加到现有日志文件的末尾
+  logAppend: true
+storage:
+  #mongod实例存储其数据的目录。storage.dbPath设置仅适用于mongod。
+  dbPath: "/mongodb/sharded_cluster/myshardrs02_27318/data/db"
+  journal:
+    #启用或禁用持久性日志以确保数据文件保持有效和可恢复。
+    enabled: true
+processManagement:
+  #启用在后台运行mongos或mongod进程的守护进程模式。
+  fork: true
+  #指定用于保存mongos或mongod进程的进程ID的文件位置，其中mongos或mongod将写入其PID
+  pidFilePath: "/mongodb/sharded_cluster/myshardrs02_27318/log/mongod.pid"
+net:
+  #服务实例绑定的IP
+  bindIp: localhost,192.168.41.129
+  #绑定的端口
+  port: 27318
+replication:
+  replSetName: myshardrs02
+sharding:
+  clusterRole: shardsvr

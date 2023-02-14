@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      # 账户登录/账户密码+地址端口+数据库名
+      uri: mongodb://bobo:123456@192.168.41.129:27017,192.168.41.129:27018,192.168.41.129:27019/articledb?connect=replicaSet&slaveOk=true&replicaSet=myrs
+#      # 分片集群，地址是路由
+#      uri: mongodb://192.168.41.129:27017,192.168.41.129:27117/articledb
+#      #主从
+#      uri: mongodb://192.168.41.129:27017,192.168.41.129:27018,192.168.41.129:27019/articledb?connect=replicaSet&slaveOk=true&replicaSet=myrs
+#      单机
+#      host: 192.168.41.129
+#      database: articledb
+#      port: 27017
+
