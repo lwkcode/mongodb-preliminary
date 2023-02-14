@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc6a0d02-739d-419e-926f-e6c098f2069f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwk/article/ArticleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwk/article/dao/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwk/article/pojo/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwk/article/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mongodb_advance.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lwk/article/service/CommentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/ideaproject/第四章/mongoDB/article/src/main/java/com/lwk/article/service",
+    "last_opened_file_path": "E:/ideaproject/第四章/mongoDB/article/src/readmeIfYouForgot",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -72,9 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaproject\第四章\mongoDB\article\src\readmeIfYouForgot" />
       <recent name="E:\ideaproject\第四章\mongoDB\article\src\main\java\com\lwk\article\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaproject\第四章\mongoDB\article\src\readmeIfYouForgot" />
       <recent name="E:\ideaproject\第四章\mongoDB\article\src" />
     </key>
   </component>
@@ -183,11 +174,23 @@
       <workItem from="1676268724801" duration="275000" />
       <workItem from="1676293454901" duration="703000" />
       <workItem from="1676340067700" duration="2000" />
-      <workItem from="1676340693960" duration="4253000" />
+      <workItem from="1676340693960" duration="5032000" />
     </task>
+    <task id="LOCAL-00001" summary="mongodb_advance.pdf里有教程，忘了去看">
+      <created>1676359297953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676359297953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mongodb_advance.pdf里有教程，忘了去看" />
+    <option name="LAST_COMMIT_MESSAGE" value="mongodb_advance.pdf里有教程，忘了去看" />
   </component>
 </project>
