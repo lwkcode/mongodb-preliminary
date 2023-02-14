@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc6a0d02-739d-419e-926f-e6c098f2069f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc6a0d02-739d-419e-926f-e6c098f2069f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,7 @@
       <workItem from="1676268724801" duration="275000" />
       <workItem from="1676293454901" duration="703000" />
       <workItem from="1676340067700" duration="2000" />
-      <workItem from="1676340693960" duration="5032000" />
+      <workItem from="1676340693960" duration="5398000" />
     </task>
     <task id="LOCAL-00001" summary="mongodb_advance.pdf里有教程，忘了去看">
       <created>1676359297953</created>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676359297953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="咋回事">
+      <created>1676360075512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360075512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mongodb_advance.pdf里有教程，忘了去看" />
-    <option name="LAST_COMMIT_MESSAGE" value="mongodb_advance.pdf里有教程，忘了去看" />
+    <MESSAGE value="咋回事" />
+    <option name="LAST_COMMIT_MESSAGE" value="咋回事" />
   </component>
 </project>
